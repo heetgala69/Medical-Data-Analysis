@@ -1,4 +1,3 @@
-# Medical-Data-Analysis
 # Medical Data Analysis
 
 This project aims to predict the most appropriate drug for a given patient based on medical data. The dataset used contains information about patients, including age, sex, blood pressure, cholesterol level, sodium-to-potassium ratio, and the drug prescribed. The dataset consists of 200 instances of patient data.
